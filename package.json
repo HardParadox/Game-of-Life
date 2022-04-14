@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/HardParadox/Game-of-Life/issues"
   },
-  "homepage": "https://github.com/HardParadox/Game-of-Life#readme"
+  "homepage": "https://github.com/HardParadox/Game-of-Life#readme",
+  "devDependencies": {
+    "typescript": "^4.6.3"
+  }
 }
