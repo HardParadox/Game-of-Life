@@ -59,15 +59,6 @@
           "off"
         ]
       }
-    },
-    {
-      "files": [
-        "*.stories.tsx"
-      ],
-      "rules": {
-        "no-restricted-syntax": "off",
-        "@typescript-eslint/no-explicit-any": "off"
-      }
     }
   ]
 }
