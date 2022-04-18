@@ -1,0 +1,24 @@
+.header {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    align-items: center;
+    box-sizing: border-box;
+    padding: 20px;
+}
+
+.header_font {
+    font-family: 'Inconsolata', monospace;
+    font-size: 2em;
+    font-weight: bold;
+    color: transparent;
+    -webkit-background-clip: text;
+}
+
+.header_lightTheme {
+    background-image: repeating-linear-gradient(to right, #553c9a, #ee4b2b 10%, #553c9a 20%);
+}
+
+.header_darkTheme {
+    background-image: repeating-linear-gradient(to right, #008000, #ee4b2b 10%, #008000 20%);
+}
