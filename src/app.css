@@ -19,9 +19,9 @@ html, body, body > div {
 }
 
 .app_lightTheme {
-    background: #fdfdfe;
+    background-image: linear-gradient(to bottom, #8748CF, #27CC8D);
 }
 
 .app_darkTheme {
-    background: #181818;
+    background-image: linear-gradient(to bottom, #1a1a1a, #501d8b);
 }

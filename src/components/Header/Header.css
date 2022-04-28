@@ -9,16 +9,12 @@
 
 .header_font {
     font-family: 'Inconsolata', monospace;
-    font-size: 2em;
+    font-size: 3em;
     font-weight: bold;
     color: transparent;
     -webkit-background-clip: text;
 }
 
 .header_lightTheme {
-    background-image: repeating-linear-gradient(to right, #553c9a, #ee4b2b 10%, #553c9a 20%);
-}
-
-.header_darkTheme {
-    background-image: repeating-linear-gradient(to right, #008000, #ee4b2b 10%, #008000 20%);
+    color: #ededed;
 }
